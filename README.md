@@ -71,7 +71,7 @@ The raw dataset has 400+ columns including anonymized Vesta features (V1–V339)
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/yourusername/FraudShield.git
+git clone https://github.com/elizadelacin/FraudShield.git
 cd FraudShield
 
 python -m venv venv
